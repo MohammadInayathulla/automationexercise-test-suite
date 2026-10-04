@@ -1,8 +1,13 @@
 <suite name="AutomationExercise Suite">
-  <test name="Smoke">
+  <test name="UI Tests">
     <classes>
       <class name="tests.HomePageTest"/>
       <class name="tests.LoginTest"/>
+    </classes>
+  </test>
+  <test name="API Tests">
+    <classes>
+      <class name="tests.ApiTest"/>
     </classes>
   </test>
 </suite>

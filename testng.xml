@@ -2,6 +2,7 @@
   <test name="Smoke">
     <classes>
       <class name="tests.HomePageTest"/>
+      <class name="tests.LoginTest"/>
     </classes>
   </test>
 </suite>
